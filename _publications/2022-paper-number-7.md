@@ -17,4 +17,4 @@ ref-4-name:
 ref-4-link:
 ---
 
-<span style="font-size:16px;">This paper experimentally validates the brachiation model using a biopolymer-based dynamic polymer system.</span>
+<span style="font-size:12px;">This paper experimentally validates the brachiation model using a biopolymer-based dynamic polymer system.</span>

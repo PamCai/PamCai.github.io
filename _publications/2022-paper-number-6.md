@@ -17,4 +17,4 @@ ref-4-name:
 ref-4-link:
 ---
 
-<span style="font-size:16px;">This review paper describes the role of bacteriophage in antibiotic resistance and tolerance.</span>
+<span style="font-size:12px;">This review paper describes the role of bacteriophage in antibiotic resistance and tolerance.</span>

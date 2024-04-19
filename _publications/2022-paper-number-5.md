@@ -16,4 +16,4 @@ ref-4-name:
 ref-4-link:
 ---
 
-<span style="font-size:16px;">This paper is about respiratory secretions in severe SARS-CoV-2 infections from a biochemical, biophysical, and immunological standpoint.</span>
+<span style="font-size:12px;">This paper is about respiratory secretions in severe SARS-CoV-2 infections from a biochemical, biophysical, and immunological standpoint.</span>

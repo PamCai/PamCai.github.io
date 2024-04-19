@@ -16,4 +16,4 @@ ref-4-name:
 ref-4-link:
 ---
 
-<span style="font-size:16px;">This paper is about the theoretical development of the brachiation model for dynamic polymer networks.</span>
+<span style="font-size:12px;">This paper is about the theoretical development of the brachiation model for dynamic polymer networks.</span>
