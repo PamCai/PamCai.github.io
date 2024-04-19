@@ -16,5 +16,5 @@ ref-4-name:
 ref-4-link:
 ---
 
-: This paper describes using dynamic light scattering microrheology to study forces exerted by breast cancer spheroids on their extracellular matrix.
+<span style="font-size:16px;">This paper describes using dynamic light scattering microrheology to study forces exerted by breast cancer spheroids on their extracellular matrix.</span>
 

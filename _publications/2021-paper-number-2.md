@@ -16,5 +16,5 @@ ref-4-name:
 ref-4-link:
 ---
 
-<span style="font-size:0.5em;">This paper describes the set up and troubleshooting techniques for dynamic light scattering microrheology. Along with this paper, I also published a Python package that can be installed directly to contain all the relevant functions for analyzing the DLS instrument's output. Documentation for this Python package as well as installation instructions can be found [here](https://dlsur.readthedocs.io/).</span>
+<span style="font-size:16px;">This paper describes the set up and troubleshooting techniques for dynamic light scattering microrheology. Along with this paper, I also published a Python package that can be installed directly to contain all the relevant functions for analyzing the DLS instrument's output. Documentation for this Python package as well as installation instructions can be found [here](https://dlsur.readthedocs.io/).</span>
 

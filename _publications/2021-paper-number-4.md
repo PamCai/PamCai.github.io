@@ -16,5 +16,5 @@ ref-4-name:
 ref-4-link:
 ---
 
-: This paper describes the development of intestinal organoids in an engineered extracellular matrix material.
+<span style="font-size:16px;">This paper describes the development of intestinal organoids in an engineered extracellular matrix material.</span>
 

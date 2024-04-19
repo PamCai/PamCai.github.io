@@ -13,4 +13,4 @@ ref-4-name:
 ref-4-link:
 ---
 
-: Accepted
+<span style="font-size:16px;">Accepted.</span>

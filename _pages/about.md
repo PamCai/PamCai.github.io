@@ -14,5 +14,5 @@ I'm Pam Cai – a 2024 Arnold O. Beckman Postdoctoral Fellow in the [Tirrell Lab
 
 Besides research, I am also very dedicated to STEM outreach and have been a part of many mentoring organizations with missions to help women and underrepresented minorities to gain access to resources they need to succeed, including [Minds Matter](mindsmatternyc.org) in New York City and [Future Advancers for Science and Technology (FAST)](fast.stanford.edu) at Stanford. I am especially passionate about introducing more students to the field of chemical engineering, which I think gives a great skillset to tackle most modern engineering challenges.
 
-For fun, I love to play music (check out my <a href="#portfolio">Portfolio</a> page!), bake, run, and explore the outdoors! 
+For fun, I love to play music (check out my <a href="portfolio">Portfolio</a> page!), bake, run, and explore the outdoors! 
 
