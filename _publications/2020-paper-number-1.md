@@ -8,16 +8,12 @@ volume: 102
 issue: 020501(R)
 ref-1-name: PDF
 ref-1-link: /files/brachiation_PhysRevE_cai.pdf
-ref-2-name: 
-ref-2-link: 
+ref-2-name: code
+ref-2-link: https://github.com/PamCai/brachiation
 ref-3-name:
 ref-3-link:
 ref-4-name:
 ref-4-link:
 ---
 
-This paper is about the theoretical development of the brachiation model for dynamic polymer networks.
-
-[Download paper here](http://PamCai.github.io/files/brachiation_PhysRevE_cai.pdf)
-
-Recommended citation: PC Cai, BA Krajina, AJ Spakowitz. 2020. "Brachiation of a polymer chain in the presence of a dynamic network." <i>Physical Review E</i>, 102, 020501(R).
+: This paper is about the theoretical development of the brachiation model for dynamic polymer networks.

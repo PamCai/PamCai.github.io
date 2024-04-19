@@ -7,8 +7,8 @@ journal: ACS Central Science
 volume: 8
 issue: 9
 pages: 1318-1327
-ref-1-name: 
-ref-1-link: 
+ref-1-name: code
+ref-1-link: https://github.com/PamCai/brach-fit
 ref-2-name: 
 ref-2-link: 
 ref-3-name:
@@ -17,8 +17,4 @@ ref-4-name:
 ref-4-link:
 ---
 
-This paper experimentally validates the brachiation model using a biopolymer-based dynamic polymer system.
-
-[Download paper here](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00432)
-
-Recommended citation: PC Cai, B Su, L Zou, MJ Webber, SC Heilshorn, AJ Spakowitz. 2022. "Rheological Characterization and Theoretical Modeling Establish Molecular Design Rules for Tailored Dynamically Associating Polymers." <i>ACS Central Science</i>, 8(9), 1318-1327.
+: This paper experimentally validates the brachiation model using a biopolymer-based dynamic polymer system.

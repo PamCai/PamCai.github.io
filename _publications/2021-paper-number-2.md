@@ -16,8 +16,5 @@ ref-4-name:
 ref-4-link:
 ---
 
-This paper describes the set up and troubleshooting techniques for dynamic light scattering microrheology. Along with this paper, I also published a Python package that can be installed directly to contain all the relevant functions for analyzing the DLS instrument's output. Documentation for this Python package as well as installation instructions can be found [here](https://dlsur.readthedocs.io/).
+: This paper describes the set up and troubleshooting techniques for dynamic light scattering microrheology. Along with this paper, I also published a Python package that can be installed directly to contain all the relevant functions for analyzing the DLS instrument's output. Documentation for this Python package as well as installation instructions can be found [here](https://dlsur.readthedocs.io/).
 
-[Download paper here](https://pubs.rsc.org/en/content/articlelanding/2021/sm/d0sm01597k)
-
-Recommended citation: PC Cai, BA Krajina, MJ Kratochvil, L Zou, A Zhu, EB Burgener, PL Bollyky, CE Milla, MJ Webber, AJ Spakowitz, SC Heilshorn. (2021). "Dynamic light scattering microrheology for soft and living materials." <i>Soft Matter</i>, 17: 1929-1939.
