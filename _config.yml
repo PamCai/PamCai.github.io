@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pamela (Pam) C. Cai"
+title                    : "Pam Cai, PhD"
 title_separator          : "-"
 name                     : &name "Pamela (Pam) C. Cai"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pam Cai"
+  name             : "Pamela (Pam) Cai"
   avatar           : "StanfordGeballeLab_Jun2023_1215_cropped.jpg"
-  bio              : "Chemical Engineering PhD"
+  bio              : "Arnold O. Beckman Postdoctoral Fellow"
   location         : "Chicago, IL"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
