@@ -11,7 +11,7 @@ My academic research leverages **theoretical polymer physics** and **experimenta
 
 Theory, however, is not useful in a vacuum. Knowledge of molecular details would help the design of biomaterials used for creating disease models. Additionally, biophysical understanding of biological fluids like mucus could inspire more target-specific treatments for mucus-related diseases. So, another focus of my work is on characterization techniques that allow better probing of complex biological materials, helping us gain insight into the physical interactions between components within. I have characterized COVID-19 patient-derived respiratory secretions using dynamic light scattering (DLS) microrheology to recommend better treatments to improve breathing in patients. Lastly, I have used biophysical modeling to gain insight into the mechanism behind antibiotic tolerance in <i>Pseudomonas aeruginosa</i>, an opportunistic pathogen that is highly prevalent in hospital infections.
 
-In a new avenue of research, I am leveraging polyelectrolyte complexation to design more sustainable plastics.
+In a new avenue of research, I am leveraging polyelectrolyte complexation to design more sustainable plastics. In particular, these plastics are formed by electrostatic attraction between chemically modified biopolymers keratin, alginate, and chitosan. By using naturally-derived biopolymers, I hope to diminish our reliance on fossil fuels and create naturally biodegradable materials. Additionally, the ionic bonds are reversible via the addition of salt and water, making these materials easily recyclable.
 
 <nbsp>
 
