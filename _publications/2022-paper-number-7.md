@@ -1,13 +1,22 @@
 ---
 title: "Rheological Characterization and Theoretical Modeling Establish Molecular Design Rules for Tailored Dynamically Associating Polymers"
-collection: publications
-permalink: /publication/2022-paper-number-7
-excerpt: 'This paper experimentally validates the brachiation model using a biopolymer-based dynamic polymer system.'
+authors: <b>PC Cai</b>, B Su, L Zou, MJ Webber, SC Heilshorn, AJ Spakowitz
 date: 2022-09-12
-venue: 'ACS Central Science'
-paperurl: 'https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00432'
-citation: 'PC Cai, B Su, L Zou, MJ Webber, SC Heilshorn, AJ Spakowitz. 2022. &quot;Rheological Characterization and Theoretical Modeling Establish Molecular Design Rules for Tailored Dynamically Associating Polymers.&quot; <i>ACS Central Science</i>, 8(9), 1318-1327.'
+doi: https://doi-org.proxy.uchicago.edu/10.1021/acscentsci.2c00432
+journal: ACS Central Science
+volume: 8
+issue: 9
+pages: 1318-1327
+ref-1-name: 
+ref-1-link: 
+ref-2-name: 
+ref-2-link: 
+ref-3-name:
+ref-3-link:
+ref-4-name:
+ref-4-link:
 ---
+
 This paper experimentally validates the brachiation model using a biopolymer-based dynamic polymer system.
 
 [Download paper here](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c00432)

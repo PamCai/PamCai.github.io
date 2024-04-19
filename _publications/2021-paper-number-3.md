@@ -1,13 +1,21 @@
 ---
 title: "Microrheology reveals simultaneous cell-mediated matrix stiffening and fluidization that underlie breast cancer invasion"
-collection: publications
-permalink: /publication/2021-paper-number-3
-excerpt: 'This paper describes using dynamic light scattering microrheology to study forces exerted by breast cancer spheroids on their extracellular matrix.'
+authors: BA Krajina, BL LeSavage, JG Roth, AW Zhu, <b>PC Cai</b>, AJ Spakowitz, SC Heilshorn
 date: 2021-02-17
-venue: 'Science Advances'
-paperurl: 'https://www.science.org/doi/full/10.1126/sciadv.abe1969'
-citation: 'BA Krajina, BL LeSavage, JG Roth, AW Zhu, PC Cai, AJ Spakowitz, SC Heilshorn. 2021. &quot;Microrheology reveals simultaneous cell-mediated matrix stiffening and fluidization that underlie breast cancer invasion.&quot; <i>Science Advances</i>, 7: eabe1969.'
+doi: https://doi.org/10.1126/sciadv.abe1969
+journal: Science Advances
+volume: 7
+issue: 8
+ref-1-name: 
+ref-1-link: 
+ref-2-name: 
+ref-2-link: 
+ref-3-name:
+ref-3-link:
+ref-4-name:
+ref-4-link:
 ---
+
 This paper describes using dynamic light scattering microrheology to study forces exerted by breast cancer spheroids on their extracellular matrix.
 
 [Download paper here](https://www.science.org/doi/full/10.1126/sciadv.abe1969)
