@@ -17,9 +17,10 @@ For fun, I love to play music (check out my <a href="portfolio">Portfolio</a> pa
 
 ## Speaking Appearances
 
-* 7.22 - 7.23 - Gordon Research Conference on Polymer Physics (<i>poster</i>)
-* 8.18 - ACS Denver CME NASA Symposium Awards Session
-* 8.19 - ACS Denver PMSE Future Faculty Symposium
+* 8.18 - ACS Denver CME NASA Symposium Awards Session (3:40-4:05PM in Plaza Ballroom F, Sheraton Denver Downtown Hotel)
+* 8.19 - ACS Denver PMSE Future Faculty Symposium (8:50-9:10AM in Grand Ballroom II, Sheraton Denver Downtown Hotel)
+* 10.27 - AIChE Annual Meeting Meet the Faculty Candidates Poster Session (1:00-3:00PM)
+* 10.28 - AIChE Annual Meeting Biomaterials Science and Eng: Faculty Candidates II (8:00-8:15AM in Aqua Salon D, Hilton San Diego Bayfront Hotel)
 
 ## Notable Highlights
 
